@@ -11,6 +11,6 @@ readarray -a [array-name] < $id.student
 to save array use :
 
 echo ${array[*]} > $id.student
-
+gasg
 
 Jobs
